@@ -43,6 +43,7 @@ public class JoyStick : MonoBehaviour, IDragHandler, IPointerDownHandler, IPoint
     private Vector3 pos_2 = new Vector3(0.5f, 0.5f, 0f);// 偏移量
     private Vector2 Origin;// 初始化按下坐标
 
+    [SerializeField]
     private Camera mCam;
 
     #endregion

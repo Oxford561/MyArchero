@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset name="monster" tilewidth="287" tileheight="123" tilecount="168">
+ <terraintypes>
+  <terrain name="8001" tile="8001"/>
+  <terrain name="8002" tile="8002"/>
+  <terrain name="8003" tile="8003"/>
+  <terrain name="8004" tile="8004"/>
+  <terrain name="8005" tile="8005"/>
+  <terrain name="3001" tile="3001"/>
+  <terrain name="3002" tile="3002"/>
+  <terrain name="3003" tile="3003"/>
+  <terrain name="3004" tile="3004"/>
+  <terrain name="3005" tile="3005"/>
+  <terrain name="3006" tile="3006"/>
+  <terrain name="3007" tile="3007"/>
+  <terrain name="3008" tile="3008"/>
+  <terrain name="3009" tile="3009"/>
+  <terrain name="3010" tile="3010"/>
+  <terrain name="3011" tile="3011"/>
+  <terrain name="3012" tile="3012"/>
+  <terrain name="3013" tile="3013"/>
+  <terrain name="3014" tile="3014"/>
+  <terrain name="3015" tile="3015"/>
+  <terrain name="3016" tile="3016"/>
+  <terrain name="3017" tile="3017"/>
+  <terrain name="3018" tile="3018"/>
+  <terrain name="3019" tile="3019"/>
+  <terrain name="3020" tile="3020"/>
+  <terrain name="3021" tile="3021"/>
+  <terrain name="3022" tile="3022"/>
+  <terrain name="3023" tile="3023"/>
+  <terrain name="3024" tile="3024"/>
+  <terrain name="3025" tile="3025"/>
+  <terrain name="3026" tile="3026"/>
+  <terrain name="3027" tile="3027"/>
+  <terrain name="3028" tile="3028"/>
+  <terrain name="3029" tile="3029"/>
+  <terrain name="3030" tile="3030"/>
+  <terrain name="3031" tile="3031"/>
+  <terrain name="3032" tile="3032"/>
+  <terrain name="3033" tile="3033"/>
+  <terrain name="3034" tile="3034"/>
+  <terrain name="3035" tile="3035"/>
+  <terrain name="3036" tile="3036"/>
+  <terrain name="3037" tile="3037"/>
+  <terrain name="3038" tile="3038"/>
+  <terrain name="3039" tile="3039"/>
+  <terrain name="3040" tile="3040"/>
+  <terrain name="3041" tile="3041"/>
+  <terrain name="3042" tile="3042"/>
+  <terrain name="3043" tile="3043"/>
+  <terrain name="3044" tile="3044"/>
+  <terrain name="3045" tile="3045"/>
+  <terrain name="3046" tile="3046"/>
+  <terrain name="3047" tile="3047"/>
+  <terrain name="3048" tile="3048"/>
+  <terrain name="3049" tile="3049"/>
+  <terrain name="3050" tile="3050"/>
+  <terrain name="3051" tile="3051"/>
+  <terrain name="3052" tile="3052"/>
+  <terrain name="3053" tile="3053"/>
+  <terrain name="3054" tile="3054"/>
+  <terrain name="3055" tile="3055"/>
+  <terrain name="3056" tile="3056"/>
+  <terrain name="3057" tile="3057"/>
+  <terrain name="3058" tile="3058"/>
+  <terrain name="3059" tile="3059"/>
+  <terrain name="3060" tile="3060"/>
+  <terrain name="3061" tile="3061"/>
+  <terrain name="3062" tile="3062"/>
+  <terrain name="3063" tile="3063"/>
+  <terrain name="3064" tile="3064"/>
+  <terrain name="3065" tile="3065"/>
+  <terrain name="3066" tile="3066"/>
+  <terrain name="3067" tile="3067"/>
+  <terrain name="3068" tile="3068"/>
+  <terrain name="3069" tile="3069"/>
+  <terrain name="3070" tile="3070"/>
+  <terrain name="3071" tile="3071"/>
+  <terrain name="3072" tile="3072"/>
+  <terrain name="3073" tile="3073"/>
+  <terrain name="3074" tile="3074"/>
+  <terrain name="3075" tile="3075"/>
+  <terrain name="3076" tile="3076"/>
+  <terrain name="3077" tile="3077"/>
+  <terrain name="3078" tile="3078"/>
+  <terrain name="3079" tile="3079"/>
+  <terrain name="3080" tile="3080"/>
+  <terrain name="3081" tile="3081"/>
+  <terrain name="3082" tile="3082"/>
+  <terrain name="3083" tile="3083"/>
+  <terrain name="3084" tile="3084"/>
+  <terrain name="3085" tile="3085"/>
+  <terrain name="3086" tile="3086"/>
+  <terrain name="3087" tile="3087"/>
+  <terrain name="3088" tile="3088"/>
+  <terrain name="3089" tile="3089"/>
+  <terrain name="3090" tile="3090"/>
+  <terrain name="3091" tile="3091"/>
+  <terrain name="3092" tile="3092"/>
+  <terrain name="3093" tile="3093"/>
+  <terrain name="3094" tile="3094"/>
+  <terrain name="3095" tile="3095"/>
+  <terrain name="3096" tile="3096"/>
+  <terrain name="3097" tile="3097"/>
+  <terrain name="3098" tile="3098"/>
+  <terrain name="3099" tile="3099"/>
+  <terrain name="3100" tile="3100"/>
+  <terrain name="3101" tile="3101"/>
+  <terrain name="3102" tile="3102"/>
+  <terrain name="3103" tile="3103"/>
+  <terrain name="3104" tile="3104"/>
+  <terrain name="3105" tile="3105"/>
+  <terrain name="3106" tile="3106"/>
+  <terrain name="3107" tile="3107"/>
+  <terrain name="3108" tile="3108"/>
+  <terrain name="3109" tile="3109"/>
+  <terrain name="3110" tile="3110"/>
+  <terrain name="3111" tile="3111"/>
+  <terrain name="3112" tile="3112"/>
+  <terrain name="3113" tile="3113"/>
+  <terrain name="3114" tile="3114"/>
+  <terrain name="3115" tile="3115"/>
+  <terrain name="3116" tile="3116"/>
+  <terrain name="3117" tile="3117"/>
+  <terrain name="3118" tile="3118"/>
+  <terrain name="3119" tile="3119"/>
+  <terrain name="3120" tile="3120"/>
+  <terrain name="3121" tile="3121"/>
+  <terrain name="3122" tile="3122"/>
+  <terrain name="9999" tile="9999"/>
+ </terraintypes>
+ <tile id="8001">
+  <image width="100" height="100" source="Soldiers/8001.png"/>
+ </tile>
+ <tile id="8002">
+  <image width="100" height="100" source="Soldiers/8002.png"/>
+ </tile>
+ <tile id="8003">
+  <image width="100" height="100" source="Soldiers/8003.png"/>
+ </tile>
+ <tile id="8004">
+  <image width="100" height="100" source="Soldiers/8004.png"/>
+ </tile>
+ <tile id="8005">
+  <image width="100" height="100" source="Soldiers/8005.png"/>
+ </tile>
+ <tile id="3001">
+  <image width="100" height="100" source="Soldiers/3001.png"/>
+ </tile>
+ <tile id="3002">
+  <image width="100" height="100" source="Soldiers/3002.png"/>
+ </tile>
+ <tile id="3003">
+  <image width="100" height="100" source="Soldiers/3003.png"/>
+ </tile>
+ <tile id="3004">
+  <image width="100" height="100" source="Soldiers/3004.png"/>
+ </tile>
+ <tile id="3005">
+  <image width="100" height="100" source="Soldiers/3005.png"/>
+ </tile>
+ <tile id="3006">
+  <image width="100" height="100" source="Soldiers/3006.png"/>
+ </tile>
+ <tile id="3007">
+  <image width="100" height="100" source="Soldiers/3007.png"/>
+ </tile>
+ <tile id="3008">
+  <image width="100" height="100" source="Soldiers/3008.png"/>
+ </tile>
+ <tile id="3009">
+  <image width="100" height="100" source="Soldiers/3009.png"/>
+ </tile>
+ <tile id="3010">
+  <image width="100" height="100" source="Soldiers/3010.png"/>
+ </tile>
+ <tile id="3011">
+  <image width="100" height="100" source="Soldiers/3011.png"/>
+ </tile>
+ <tile id="3012">
+  <image width="100" height="100" source="Soldiers/3012.png"/>
+ </tile>
+ <tile id="3013">
+  <image width="100" height="100" source="Soldiers/3013.png"/>
+ </tile>
+ <tile id="3014">
+  <image width="100" height="100" source="Soldiers/3014.png"/>
+ </tile>
+ <tile id="3015">
+  <image width="100" height="100" source="Soldiers/3015.png"/>
+ </tile>
+ <tile id="3016">
+  <image width="100" height="100" source="Soldiers/3016.png"/>
+ </tile>
+ <tile id="3017">
+  <image width="100" height="100" source="Soldiers/3017.png"/>
+ </tile>
+ <tile id="3018">
+  <image width="100" height="100" source="Soldiers/3018.png"/>
+ </tile>
+ <tile id="3019">
+  <image width="100" height="100" source="Soldiers/3019.png"/>
+ </tile>
+ <tile id="3020">
+  <image width="100" height="100" source="Soldiers/3020.png"/>
+ </tile>
+ <tile id="3021">
+  <image width="100" height="100" source="Soldiers/3021.png"/>
+ </tile>
+ <tile id="3022">
+  <image width="100" height="100" source="Soldiers/3022.png"/>
+ </tile>
+ <tile id="3023">
+  <image width="100" height="100" source="Soldiers/3023.png"/>
+ </tile>
+ <tile id="3024">
+  <image width="100" height="100" source="Soldiers/3024.png"/>
+ </tile>
+ <tile id="3025">
+  <image width="100" height="100" source="Soldiers/3025.png"/>
+ </tile>
+ <tile id="3026">
+  <image width="100" height="100" source="Soldiers/3026.png"/>
+ </tile>
+ <tile id="3027">
+  <image width="100" height="100" source="Soldiers/3027.png"/>
+ </tile>
+ <tile id="3028">
+  <image width="100" height="100" source="Soldiers/3028.png"/>
+ </tile>
+ <tile id="3029">
+  <image width="100" height="100" source="Soldiers/3029.png"/>
+ </tile>
+ <tile id="3030">
+  <image width="100" height="100" source="Soldiers/3030.png"/>
+ </tile>
+ <tile id="3031">
+  <image width="100" height="100" source="Soldiers/3031.png"/>
+ </tile>
+ <tile id="3032">
+  <image width="100" height="100" source="Soldiers/3032.png"/>
+ </tile>
+ <tile id="3033">
+  <image width="100" height="100" source="Soldiers/3033.png"/>
+ </tile>
+ <tile id="3034">
+  <image width="100" height="100" source="Soldiers/3034.png"/>
+ </tile>
+ <tile id="3035">
+  <image width="100" height="100" source="Soldiers/3035.png"/>
+ </tile>
+ <tile id="3036">
+  <image width="100" height="100" source="Soldiers/3036.png"/>
+ </tile>
+ <tile id="3037">
+  <image width="100" height="100" source="Soldiers/3037.png"/>
+ </tile>
+ <tile id="3038">
+  <image width="100" height="100" source="Soldiers/3038.png"/>
+ </tile>
+ <tile id="3039">
+  <image width="100" height="100" source="Soldiers/3039.png"/>
+ </tile>
+ <tile id="3040">
+  <image width="100" height="100" source="Soldiers/3040.png"/>
+ </tile>
+ <tile id="3041">
+  <image width="100" height="100" source="Soldiers/3041.png"/>
+ </tile>
+ <tile id="3042">
+  <image width="100" height="100" source="Soldiers/3042.png"/>
+ </tile>
+ <tile id="3043">
+  <image width="100" height="100" source="Soldiers/3043.png"/>
+ </tile>
+ <tile id="3044">
+  <image width="100" height="100" source="Soldiers/3044.png"/>
+ </tile>
+ <tile id="3045">
+  <image width="100" height="100" source="Soldiers/3045.png"/>
+ </tile>
+ <tile id="3046">
+  <image width="100" height="100" source="Soldiers/3046.png"/>
+ </tile>
+ <tile id="3047">
+  <image width="100" height="100" source="Soldiers/3047.png"/>
+ </tile>
+ <tile id="3048">
+  <image width="100" height="100" source="Soldiers/3048.png"/>
+ </tile>
+ <tile id="3049">
+  <image width="100" height="100" source="Soldiers/3049.png"/>
+ </tile>
+ <tile id="3050">
+  <image width="100" height="100" source="Soldiers/3050.png"/>
+ </tile>
+ <tile id="3051">
+  <image width="100" height="100" source="Soldiers/3051.png"/>
+ </tile>
+ <tile id="3052">
+  <image width="100" height="100" source="Soldiers/3052.png"/>
+ </tile>
+ <tile id="3053">
+  <image width="100" height="100" source="Soldiers/3053.png"/>
+ </tile>
+ <tile id="3054">
+  <image width="100" height="100" source="Soldiers/3054.png"/>
+ </tile>
+ <tile id="3055">
+  <image width="100" height="100" source="Soldiers/3055.png"/>
+ </tile>
+ <tile id="3056">
+  <image width="100" height="100" source="Soldiers/3056.png"/>
+ </tile>
+ <tile id="3057">
+  <image width="100" height="100" source="Soldiers/3057.png"/>
+ </tile>
+ <tile id="3058">
+  <image width="100" height="100" source="Soldiers/3058.png"/>
+ </tile>
+ <tile id="3059">
+  <image width="100" height="100" source="Soldiers/3059.png"/>
+ </tile>
+ <tile id="3060">
+  <image width="100" height="100" source="Soldiers/3060.png"/>
+ </tile>
+ <tile id="3061">
+  <image width="100" height="100" source="Soldiers/3061.png"/>
+ </tile>
+ <tile id="3062">
+  <image width="100" height="100" source="Soldiers/3062.png"/>
+ </tile>
+ <tile id="3063">
+  <image width="100" height="100" source="Soldiers/3063.png"/>
+ </tile>
+ <tile id="3064">
+  <image width="100" height="100" source="Soldiers/3064.png"/>
+ </tile>
+ <tile id="3065">
+  <image width="100" height="100" source="Soldiers/3065.png"/>
+ </tile>
+ <tile id="3066">
+  <image width="100" height="100" source="Soldiers/3066.png"/>
+ </tile>
+ <tile id="3067">
+  <image width="100" height="100" source="Soldiers/3067.png"/>
+ </tile>
+ <tile id="3068">
+  <image width="100" height="100" source="Soldiers/3068.png"/>
+ </tile>
+ <tile id="3069">
+  <image width="100" height="100" source="Soldiers/3069.png"/>
+ </tile>
+ <tile id="3070">
+  <image width="100" height="100" source="Soldiers/3070.png"/>
+ </tile>
+ <tile id="3071">
+  <image width="100" height="100" source="Soldiers/3071.png"/>
+ </tile>
+ <tile id="3072">
+  <image width="100" height="100" source="Soldiers/3072.png"/>
+ </tile>
+ <tile id="3073">
+  <image width="100" height="100" source="Soldiers/3073.png"/>
+ </tile>
+ <tile id="3074">
+  <image width="100" height="100" source="Soldiers/3074.png"/>
+ </tile>
+ <tile id="3075">
+  <image width="100" height="100" source="Soldiers/3075.png"/>
+ </tile>
+ <tile id="3076">
+  <image width="100" height="100" source="Soldiers/3076.png"/>
+ </tile>
+ <tile id="3077">
+  <image width="100" height="100" source="Soldiers/3077.png"/>
+ </tile>
+ <tile id="3078">
+  <image width="100" height="100" source="Soldiers/3078.png"/>
+ </tile>
+ <tile id="3079">
+  <image width="100" height="100" source="Soldiers/3079.png"/>
+ </tile>
+ <tile id="3080">
+  <image width="100" height="100" source="Soldiers/3080.png"/>
+ </tile>
+ <tile id="3081">
+  <image width="100" height="100" source="Soldiers/3081.png"/>
+ </tile>
+ <tile id="3082">
+  <image width="100" height="100" source="Soldiers/3082.png"/>
+ </tile>
+ <tile id="3083">
+  <image width="100" height="100" source="Soldiers/3083.png"/>
+ </tile>
+ <tile id="3084">
+  <image width="100" height="100" source="Soldiers/3084.png"/>
+ </tile>
+ <tile id="3085">
+  <image width="100" height="100" source="Soldiers/3085.png"/>
+ </tile>
+ <tile id="3086">
+  <image width="100" height="100" source="Soldiers/3086.png"/>
+ </tile>
+ <tile id="3087">
+  <image width="100" height="100" source="Soldiers/3087.png"/>
+ </tile>
+ <tile id="3088">
+  <image width="100" height="100" source="Soldiers/3088.png"/>
+ </tile>
+ <tile id="3089">
+  <image width="100" height="100" source="Soldiers/3089.png"/>
+ </tile>
+ <tile id="3090">
+  <image width="100" height="100" source="Soldiers/3090.png"/>
+ </tile>
+ <tile id="3091">
+  <image width="100" height="100" source="Soldiers/3091.png"/>
+ </tile>
+ <tile id="3092">
+  <image width="100" height="100" source="Soldiers/3092.png"/>
+ </tile>
+ <tile id="3093">
+  <image width="100" height="100" source="Soldiers/3093.png"/>
+ </tile>
+ <tile id="3094">
+  <image width="100" height="100" source="Soldiers/3094.png"/>
+ </tile>
+ <tile id="3095">
+  <image width="100" height="100" source="Soldiers/3095.png"/>
+ </tile>
+ <tile id="3096">
+  <image width="100" height="100" source="Soldiers/3096.png"/>
+ </tile>
+ <tile id="3097">
+  <image width="100" height="100" source="Soldiers/3097.png"/>
+ </tile>
+ <tile id="3098">
+  <image width="100" height="100" source="Soldiers/3098.png"/>
+ </tile>
+ <tile id="3099">
+  <image width="100" height="100" source="Soldiers/3099.png"/>
+ </tile>
+ <tile id="3100">
+  <image width="100" height="100" source="Soldiers/3100.png"/>
+ </tile>
+ <tile id="3101">
+  <image width="100" height="100" source="Soldiers/3101.png"/>
+ </tile>
+ <tile id="3102">
+  <image width="100" height="100" source="Soldiers/3102.png"/>
+ </tile>
+ <tile id="3103">
+  <image width="100" height="100" source="Soldiers/3103.png"/>
+ </tile>
+ <tile id="3104">
+  <image width="100" height="100" source="Soldiers/3104.png"/>
+ </tile>
+ <tile id="3105">
+  <image width="100" height="100" source="Soldiers/3105.png"/>
+ </tile>
+ <tile id="3106">
+  <image width="100" height="100" source="Soldiers/3106.png"/>
+ </tile>
+ <tile id="3107">
+  <image width="100" height="100" source="Soldiers/3107.png"/>
+ </tile>
+ <tile id="3108">
+  <image width="100" height="100" source="Soldiers/3108.png"/>
+ </tile>
+ <tile id="3109">
+  <image width="100" height="100" source="Soldiers/3109.png"/>
+ </tile>
+ <tile id="3110">
+  <image width="100" height="100" source="Soldiers/3110.png"/>
+ </tile>
+ <tile id="3111">
+  <image width="100" height="100" source="Soldiers/3111.png"/>
+ </tile>
+ <tile id="3112">
+  <image width="100" height="100" source="Soldiers/3112.png"/>
+ </tile>
+ <tile id="3113">
+  <image width="100" height="100" source="Soldiers/3113.png"/>
+ </tile>
+ <tile id="3114">
+  <image width="100" height="100" source="Soldiers/3114.png"/>
+ </tile>
+ <tile id="3115">
+  <image width="100" height="100" source="Soldiers/3115.png"/>
+ </tile>
+ <tile id="3116">
+  <image width="100" height="100" source="Soldiers/3116.png"/>
+ </tile>
+ <tile id="3117">
+  <image width="100" height="100" source="Soldiers/3117.png"/>
+ </tile>
+ <tile id="3118">
+  <image width="100" height="100" source="Soldiers/3118.png"/>
+ </tile>
+ <tile id="3119">
+  <image width="100" height="100" source="Soldiers/3119.png"/>
+ </tile>
+ <tile id="3120">
+  <image width="100" height="100" source="Soldiers/3120.png"/>
+ </tile>
+ <tile id="3121">
+  <image width="100" height="100" source="Soldiers/3121.png"/>
+ </tile>
+ <tile id="3122">
+  <image width="100" height="100" source="Soldiers/3122.png"/>
+ </tile>
+ <tile id="9999">
+  <image width="100" height="100" source="Soldiers/9999.png"/>
+ </tile>
+</tileset>

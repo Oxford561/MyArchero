@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="11" height="15" tilewidth="100" tileheight="100" infinite="0" nextlayerid="1" nextobjectid="1">
+ <tileset firstgid="1" source="../../map_monster.tsx"/>
+ <tileset firstgid="10001" source="../../map_boss.tsx"/>
+ <tileset firstgid="20001" source="../../map_good.tsx"/>
+ <layer id="1" name="layer1" width="11" height="15">
+  <data encoding="csv">
+21002,21002,21002,0,0,0,0,0,21002,21002,21002,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,3085,0,0,0,0,0,
+0,21002,0,0,0,0,0,0,0,21002,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,21002,0,0,0,21002,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,3085,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,21002,0,0,0,21002,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,21002,0,0,0,0,0,0,0,21002,0,
+3085,0,0,0,0,0,0,0,0,0,3085,
+0,0,0,0,0,0,0,0,0,0,0,
+21002,21002,21002,0,0,0,0,0,21002,21002,21002
+</data>
+ </layer>
+</map>

@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall_Up
+  - Map_Door
+  - Exp
+  - Wall_Left
+  - Wall_Down
+  - Wall_Right
+  - Dun
+  - HP
+  - Trap
+  - FxTemporaire
   layers:
   - Default
   - TransparentFX
@@ -40,4 +50,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3229406623
     locked: 0
